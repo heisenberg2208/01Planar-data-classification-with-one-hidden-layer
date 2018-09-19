@@ -1,1 +1,1 @@
-# deep_learning
+# Planar data classification with one hidden layer
